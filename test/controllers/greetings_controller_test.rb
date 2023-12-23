@@ -1,7 +1,8 @@
-require 'test_helper'
+require "test_helper"
 
 class GreetingsControllerTest < ActionDispatch::IntegrationTest
-  # test "the truth" do
-  #   assert true
-  # end
+  test "should get random" do
+    get greetings_random_url
+    assert_response :success
+  end
 end

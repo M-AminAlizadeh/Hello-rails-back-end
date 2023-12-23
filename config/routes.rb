@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
-  get '/greetings/random', to: 'greetings#random'
-  get "up" => "rails/health#show", as: :rails_health_check
+  root 'root#index'
+  namespace :api do
+    get 'random_greeting', to: 'messages#random_greeting'
+  end
 end
