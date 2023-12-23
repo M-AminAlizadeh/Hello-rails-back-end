@@ -112,10 +112,10 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Amin Alizadeh**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [link](https://github.com/m-aminalizadeh)
+- LinkedIn: [Link](https://linkedin.com/in/m-amin-alizadeh)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
